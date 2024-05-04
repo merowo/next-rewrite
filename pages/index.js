@@ -3,6 +3,7 @@ import Header from './Header';
 import FullDescription from './FullDescription';
 import Skills from './Skills';
 import FindMe from './FindMe';
+import NotableStuff from './NotableStuff';
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <div className="content max-w-4xl mx-auto py-8 px-4">
           <Header />
           <FullDescription />
+          <NotableStuff />
           <Skills />
           <FindMe />
         </div>

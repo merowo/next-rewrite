@@ -16,9 +16,6 @@ export default function FullDescription() {
         <ul>
           <li>Pronouns: any/all</li>
           <li>Sexual orientation: Asexual.</li>
-          {/* Add more personal details if desired */}
         </ul>
       </div>
-    );
-  }
-  
+    );  }
