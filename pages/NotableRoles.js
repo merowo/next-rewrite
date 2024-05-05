@@ -1,7 +1,7 @@
 // NotableRoles.js
 import React from 'react';
 
-export default function NotableStuff() {
+export default function NotableRoles() {
   return (
     <div className="notable-stuff mb-8">
       <h2 className="text-2xl font-bold mb-4">Notable Roles</h2>
