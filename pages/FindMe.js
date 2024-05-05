@@ -31,8 +31,12 @@ export default function FindMe() {
             <img src="/img/platforms/meowsocial.png" height="32" width="32" alt="Mastodon" />
             <div className="platform-tooltip">meow.social</div>
           </a>
+            <a href="https://reddit.com/u/mstrv_owo" className="platform">
+            <img src="/img/platforms/reddit.svg" height="32" width="32" alt="Reddit" />
+            <div className="platform-tooltip">Reddit</div>
+          </a>
         </div>
       </div>
     );
   }
-  
+ 
