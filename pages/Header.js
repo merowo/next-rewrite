@@ -1,11 +1,11 @@
 import { useEffect } from 'react';
 
-const names = ['Mero', 'mstrv', '4D 65 72 6F', 'merowo', 'mewo'];
+const names = ['Mero', 'mstrv', '4D 65 72 6F', 'merowo', 'mewo', '-- . .-. ---', 'Tlyv', 'TWVybw=='];
 let currentIndex = 0;
 
 export default function Header() {
   useEffect(() => {
-    const textElement = document.getElementById('name-placeholder');
+    const textElement = document.getElementById('name');
 
     const animateText = () => {
       const currentName = names[currentIndex % names.length];
@@ -21,7 +21,7 @@ export default function Header() {
 
       // Add new name letter by letter
       for (let i = 0; i < currentName.length; i++) {
-        setTimeout(() => {
+        setTimeout(() => {  
           text += currentName[i];
           textElement.textContent = text;
         }, (textElement.textContent.length + i) * 150); // Add one letter every 50 milliseconds after deleting previous name
@@ -33,12 +33,12 @@ export default function Header() {
     const interval = setInterval(animateText, 3600); // Change text every 1.3 seconds
 
     return () => clearInterval(interval);
-  }, []);
+   }, []);
 
   return (
     <div className="header-container">
       <div className="header text-center mb-8">
-        <h1 className="title text-3xl font-bold mb-2">Hi, I'm <span id="name-placeholder"></span><span className="cursor">|</span></h1>
+        <h1 className="title text-3xl font-bold mb-2">Hi, I'm <span id="name"></span><span className="cursor">|</span></h1>
         <p className="description text-lg text-gray-600">I'm a developer passionate about coding and building things.</p>
         {/* Image */}
         <div className="image-container">
