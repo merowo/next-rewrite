@@ -40,9 +40,11 @@ export default function Skills() {
         <h4>Microsoft</h4>
         <li>Visual Studio 2019 & 2022</li>
         <li>Visual Studio Code</li>
-        <h4>Others</h4>
+        <h4>Misc editors</h4>
         <li>Vim/NeoVim</li>
         <li>Codium</li>
+        <li>Adobe Dreamwaver</li>
+        <li>NANO</li>
        </ul>
     </div>
   );
