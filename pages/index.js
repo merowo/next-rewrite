@@ -10,6 +10,8 @@ export default function Home() {
     <div className="bg-gray-100 min-h-screen">
       <Head>
         <title>mstrv - portfolio</title>
+        <meta name="description" content="A portfolio." />
+        <meta name="author" content="mstrv" />
       </Head>
       <div className="wrapper">
         <div className="content max-w-4xl mx-auto py-8 px-4">

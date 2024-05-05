@@ -35,6 +35,10 @@ export default function FindMe() {
             <img src="/img/platforms/reddit.svg" height="32" width="32" alt="Reddit" />
             <div className="platform-tooltip">Reddit</div>
           </a>
+            <a href="/Discord" className="platform">
+            <img src="/img/platforms/discord.svg" height="32" width="32" alt="Discord" />
+            <div className="platform-tooltip">Discord server</div>
+            </a>
         </div>
       </div>
     );
