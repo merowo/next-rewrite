@@ -27,6 +27,8 @@ export default function Skills() {
       <h3>Tools and Technologies</h3>
       <ul>
         <li>Hyper-V</li>
+        <li>Oracle VirtualBox & VMWare Workstation</li>
+        <li>VMWARE EXSI & ProxMox</li>
         <li>Docker</li>
         <li>KVM/QEMU</li>
       </ul>
@@ -36,7 +38,7 @@ export default function Skills() {
         <li>InteliJ Idea</li>
         <li>RustRover</li>
         <h4>Microsoft</h4>
-        <li>Visual Studio 2019 &&amp 2022</li>
+        <li>Visual Studio 2019 & 2022</li>
         <li>Visual Studio Code</li>
         <h4>Others</h4>
         <li>Vim/NeoVim</li>
