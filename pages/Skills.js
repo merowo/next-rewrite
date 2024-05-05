@@ -30,7 +30,18 @@ export default function Skills() {
         <li>Docker</li>
         <li>KVM/QEMU</li>
       </ul>
-
+      <h3>IDE'S/Editors</h3>
+      <ul>
+        <h4>Jetbrains</h4>
+        <li>InteliJ Idea</li>
+        <li>RustRover</li>
+        <h4>Microsoft</h4>
+        <li>Visual Studio 2019 &&amp 2022</li>
+        <li>Visual Studio Code</li>
+        <h4>Others</h4>
+        <li>Vim/NeoVim</li>
+        <li>Codium</li>
+       </ul>
     </div>
   );
 }
