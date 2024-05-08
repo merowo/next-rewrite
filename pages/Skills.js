@@ -11,7 +11,6 @@ export default function Skills() {
         <li>JavaScript</li>
         <li>Rust</li>
         <li>ASM_x86</li>
-        <li>Node.js</li>
       </ul>
 
       <h3>Frameworks and Libraries</h3>
