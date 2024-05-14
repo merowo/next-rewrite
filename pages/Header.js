@@ -42,7 +42,7 @@ export default function Header() {
         <p className="description text-lg text-gray-600">I'm a developer passionate about coding and building things.</p>
         {/* Image */}
         <div className="image-container">
-          <img src="https://cdn.discordapp.com/avatars/852891241125117962/a95e72456472b22d3b08c502fa4bd4bb.webp?size=512&format=webp&width=0&height=128" alt="Your Image" height="200" width="200" />
+          <img src="https://cdn.discordapp.com/avatars/852891241125117962/522a3c3b5407266e3742d764905798d3.webp?size=1024&format=webp&width=0&height=256" alt="Your Image" height="200" width="200" />
         </div>
       </div>
     </div>
