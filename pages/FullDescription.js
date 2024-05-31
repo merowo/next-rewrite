@@ -10,12 +10,15 @@ export default function FullDescription() {
           <li>2013-2023 (Q3-ish): Windows - I switched because Windows has too big of a monopoly on the system market.</li>
           <li>2023 (Q3) - 2024 (Q1): Pop!_OS w/ i3WM</li>
           <li>February to March 2024: Windows</li>
-          <li>April 2024-Present: Arch Linux with GNOME as the DE</li>
+          <li>April 2024-May 2024: Arch Linux with GNOME as the DE</li>
+          <li>Windows (YTDLP is broken on arch linux) 2024 may - present</li>
         </ul>
         <h2 className="text-2xl font-bold mb-4">About Me</h2>
         <ul>
           <li>Pronouns: any/all</li>
-          <li>Sexual orientation: Asexual.</li>
+          <li>Sexual orientation: Bisexual.</li>
+          <li>Hobbies: Playing games like TF2, CS2, Forager, GMOD and VRC</li>
+          <li>Languages: English, German, Ukrainian, Russian.</li>
         </ul>
       </div>
     );  }

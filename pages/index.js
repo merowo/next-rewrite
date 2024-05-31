@@ -4,6 +4,7 @@ import FullDescription from './FullDescription';
 import Skills from './Skills';
 import FindMe from './FindMe';
 import NotableRoles from './NotableRoles';
+import Verification from './verification';
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
           <NotableRoles />
           <Skills />
           <FindMe />
+          <Verification />
         </div>
       </div>
     </div>
