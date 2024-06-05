@@ -47,8 +47,13 @@ AQCiWkUwRRDhhisi4SGVFbtfVt1De8VyQ124yloW2IoUDg==
                 </div>
             </details>
         </div>
+        
         <p>Or, you can check if mstrv.pl is bound to an a discord account, which should look like image below.</p>
+        <details>
+          <summary>Click to expand the image</summary>
         <img src="img/misc/VerificationOptionThree.png" />
+        <p>yes, i am well aware that this is kinda broken on mobile devices, CBA to fix it</p>
+        </details>
 
     </div>
   );

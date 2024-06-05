@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="bg-gray-100 min-h-screen">
       <Head>
-        <title>mstrv - portfolio</title>
+        <title>mstrv - happy pride month!</title>
         <meta name="description" content="A portfolio." />
         <meta name="author" content="mstrv" />
       </Head>
