@@ -1,7 +1,29 @@
 /* Platform styling */
-.image-container {
-  border-radius: 50%; /* Adjust border-radius for circular shape */
+/* whole page fade in */
+
+/* whole page fade in */
+body {
+  animation: fadeIn 1s ease forwards;
 }
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+img {
+  border-radius: 10px;
+}
+
+
+
+
+
+
 
 /* Ensure platforms are aligned properly */
 .platforms {
@@ -19,6 +41,9 @@
 
 .platform:hover {
   transform: scale(1.2);
+}
+a {
+  color: #ffbf59;
 }
 
 .platform-tooltip {

@@ -11,6 +11,7 @@ export default function Skills() {
         <li>JavaScript</li>
         <li>Rust</li>
         <li>ASM_x86</li>
+        <li>C</li>
       </ul>
 
       <h3>Frameworks and Libraries</h3>
@@ -44,6 +45,7 @@ export default function Skills() {
         <li>Codium</li>
         <li>Adobe Dreamwaver</li>
         <li>NANO</li>
+        <li>Sublime text</li>
        </ul>
     </div>
   );

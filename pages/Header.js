@@ -63,7 +63,7 @@ export default function Header() {
       <div className="header text-center mb-8">
         <h1 className="title text-3xl font-bold mb-2">Hi, I'm <span id="name">{displayedText}</span><span className="cursor">|</span></h1>
         <p id="pride"></p>
-        <p className="description text-lg text-gray-600">Me make software and pages</p>
+        <p className="description text-lg text-gray-600">Me engineer software & me make sites</p>
         {/* Image */}
         <div className="image-container">
           <img src="https://cdn.discordapp.com/avatars/852891241125117962/37d5f894e1f4b157448c1b710ef61c26.webp?size=4096" alt="PFP" height="200" width="200" />
