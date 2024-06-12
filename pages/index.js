@@ -11,7 +11,7 @@ export default function Home() {
     <div className="bg-gray-100 min-h-screen">
       <Head>
         <title>mstrv - happy pride month!</title>
-        <meta name="description" content="A portfolio." />
+        <meta name="description" content="a silly site :3" />
         <meta name="author" content="mstrv" />
       </Head>
       <div className="wrapper">

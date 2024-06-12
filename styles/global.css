@@ -1,5 +1,4 @@
-/* Platform styling */
-/* whole page fade in */
+
 
 /* whole page fade in */
 body {
@@ -18,12 +17,6 @@ body {
 img {
   border-radius: 10px;
 }
-
-
-
-
-
-
 
 /* Ensure platforms are aligned properly */
 .platforms {
