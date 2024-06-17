@@ -26,20 +26,20 @@ img {
   justify-content: center; /* Center platforms horizontally */
 }
 
-.platform {
+.platform, .language {
   display: inline-block;
   margin: 10px;
   transition: transform 0.3s ease;
 }
 
-.platform:hover {
+.platform:hover, .language:hover {
   transform: scale(1.2);
 }
 a {
   color: #ffbf59;
 }
 
-.platform-tooltip {
+.platform-tooltip, .language-tooltip {
   position: absolute;
   top: 100%;
   left: 50%;
@@ -53,7 +53,7 @@ a {
   pointer-events: none;
 }
 
-.platform:hover .platform-tooltip {
+.platform:hover .platform-tooltip, .language:hover .language-tooltip {
   opacity: 1;
 }
 
