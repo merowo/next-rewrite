@@ -6,6 +6,7 @@ import FindMe from './FindMe';
 import NotableRoles from './NotableRoles';
 import Verification from './verification';
 import Footer from './Footer';
+import Toast from './Toast';
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
           <FindMe />
           <Verification />
           <Footer />
+          <Toast />
           
         </div>
       </div>
