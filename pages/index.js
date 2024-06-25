@@ -7,7 +7,7 @@ import NotableRoles from './NotableRoles';
 import Verification from './verification';
 import Footer from './Footer';
 import Toast from './Toast';
-
+import NotificationBanner from './NotificationBanner';
 export default function Home() {
   return (
     <div className="bg-gray-100 min-h-screen">
@@ -26,6 +26,7 @@ export default function Home() {
           <Verification />
           <Footer />
           <Toast />
+          <NotificationBanner />
           
         </div>
       </div>

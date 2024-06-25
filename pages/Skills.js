@@ -26,11 +26,13 @@ export default function Skills() {
 
       <h3>Tools and Technologies</h3>
       <ul>
-        <li>Hyper-V</li>
-        <li>Oracle VirtualBox & VMWare Workstation</li>
-        <li>VMWARE EXSI & ProxMox</li>
-        <li>Docker</li>
-        <li>KVM/QEMU</li>
+        {/* hyper v */} <a className='language' href="https://en.wikipedia.org/wiki/Hyper-V"><img width="32" height="32" src="/img/todo-categorize-this-folder/hyperv.svg"></img><span className="language-tooltip">Hyper-V</span> </a>
+        <a className='language' href="https://www.virtualbox.org/"><img width="32" height="32" src="/img/todo-categorize-this-folder/virtualbox.svg"></img><span className="language-tooltip">VirtualBox</span> </a>
+        <a className='language' href="https://www.vmware.com/products/workstation-pro.html"><img width="32" height="32" src="/img/todo-categorize-this-folder/vmware.svg"></img><span className="language-tooltip">VMWare Workstation</span> </a>
+        <a className='language' href="https://www.vmware.com/products/vcenter-server-and-vcenter-standalone.html"><img width="32" height="32" src="/img/todo-categorize-this-folder/exsi.svg"></img><span className="language-tooltip">VMWare EXSI</span> </a>
+        <a className='language' href="https://www.proxmox.com/en/"><img width="32" height="32" src="/img/todo-categorize-this-folder/proxmox.svg"></img><span className="language-tooltip">ProxMox</span> </a>
+        <a className='language' href="https://www.docker.com/"><img width="32" height="32" src="/img/todo-categorize-this-folder/docker.svg"></img><span className="language-tooltip">Docker</span> </a>
+        <a className='language' href="https://www.qemu.org/"><img width="32" height="32" src="/img/todo-categorize-this-folder/qemu.svg"></img><span className="language-tooltip">KVM/QEMU</span> </a>
       </ul>
       <h3>IDE'S/Editors</h3>
       <ul>
