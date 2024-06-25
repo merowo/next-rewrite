@@ -1,13 +1,13 @@
-import Head from 'next/head';
-import Header from './Header';
-import FullDescription from './FullDescription';
-import Skills from './Skills';
-import FindMe from './FindMe';
-import NotableRoles from './NotableRoles';
-import Verification from './verification';
-import Footer from './Footer';
-import Toast from './Toast';
 import NotificationBanner from './NotificationBanner';
+import FullDescription from './FullDescription';
+import NotableRoles from './NotableRoles';
+import FindMe from './FindMe';
+import Skills from './Skills';
+import Header from './header';
+import Toast from './Toast';
+import Footer from './Footer';
+import Head from 'next/head';
+
 export default function Home() {
   return (
     <div className="bg-gray-100 min-h-screen">
@@ -23,11 +23,12 @@ export default function Home() {
           <NotableRoles />
           <Skills />
           <FindMe />
-          <Verification />
           <Footer />
           <Toast />
           <NotificationBanner />
+
           
+
         </div>
       </div>
     </div>

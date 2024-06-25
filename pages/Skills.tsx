@@ -12,6 +12,7 @@ export default function Skills() {
         <a className='language' href="https://www.rust-lang.org/"><img width="32" height="32" src="/img/todo-categorize-this-folder/rust.svg"></img><span className="language-tooltip">Rust</span> </a>
         <a className='language' href="https://en.wikipedia.org/wiki/X86_assembly_language"><img width="32" height="32" src="/img/todo-categorize-this-folder/asm.svg"></img><span className="language-tooltip">Assembly</span> </a>
         <a className='language' href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="32" height="32" src="/img/todo-categorize-this-folder/c.svg"></img><span className="language-tooltip">C</span> </a>
+        <a className='language' href="https://en.wikipedia.org/wiki/TypeScript"><img width="32" height="32" src="/img/todo-categorize-this-folder/ts.svg"></img><span className="language-tooltip">TypeScript</span> </a>
       </ul>
 
       <h3>Frameworks and Libraries</h3>
@@ -34,21 +35,9 @@ export default function Skills() {
         <a className='language' href="https://www.docker.com/"><img width="32" height="32" src="/img/todo-categorize-this-folder/docker.svg"></img><span className="language-tooltip">Docker</span> </a>
         <a className='language' href="https://www.qemu.org/"><img width="32" height="32" src="/img/todo-categorize-this-folder/qemu.svg"></img><span className="language-tooltip">KVM/QEMU</span> </a>
       </ul>
-      <h3>IDE'S/Editors</h3>
-      <ul>
-        <h4>Jetbrains</h4>
-        <li>InteliJ Idea</li>
-        <li>RustRover</li>
-        <h4>Microsoft</h4>
-        <li>Visual Studio 2019 & 2022</li>
-        <li>Visual Studio Code</li>
-        <h4>Misc editors</h4>
-        <li>Vim/NeoVim</li>
-        <li>Codium</li>
-        <li>Adobe Dreamwaver</li>
-        <li>NANO</li>
-        <li>Sublime text</li>
-       </ul>
+
+      <h3>Other</h3>
+      <p>From other software i use on a day-to-day basis it would be Visual studio code only, i don't use any other tools</p>
     </div>
   );
 }
