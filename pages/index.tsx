@@ -26,9 +26,6 @@ export default function Home() {
           <Footer />
           <Toast />
           <NotificationBanner />
-
-          
-
         </div>
       </div>
     </div>

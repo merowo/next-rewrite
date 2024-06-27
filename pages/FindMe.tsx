@@ -11,7 +11,7 @@ export default function FindMe() {
             <img src="/img/platforms/github.svg" height="32" width="32" alt="GitHub" />
             <div className="platform-tooltip">GitHub</div>
           </a>
-          <a href="https://t.me/mstrv_pl" className="platform"> 
+          <a href="https://t.me/mstrv_lol" className="platform"> 
             <img src="/img/platforms/telegram.svg" height="32" width="32" alt="Telegram" />
             <div className="platform-tooltip">Telegram</div>
           </a>
