@@ -1,7 +1,7 @@
 export default function FindMe() {
     return (
       <div>
-        <h2 className="text-xl font-semibold mb-4">Where to find me?</h2>
+        <h2 className="text-xl font-semibold mb-4">Socials</h2>
         <div className="platforms flex justify-start space-x-4 mb-8">
           <a href="https://bsky.app/profile/mstrv.pl" className="platform">
             <img src="/img/platforms/bsky.svg" height="32" width="32" alt="Bsky" />
@@ -11,7 +11,7 @@ export default function FindMe() {
             <img src="/img/platforms/github.svg" height="32" width="32" alt="GitHub" />
             <div className="platform-tooltip">GitHub</div>
           </a>
-          <a href="https://t.me/mstrv_lol" className="platform"> 
+          <a href="https://t.me/mstrvlol" className="platform"> 
             <img src="/img/platforms/telegram.svg" height="32" width="32" alt="Telegram" />
             <div className="platform-tooltip">Telegram</div>
           </a>
@@ -38,6 +38,10 @@ export default function FindMe() {
             <a href="/Discord" className="platform">
             <img src="/img/platforms/discord.svg" height="32" width="32" alt="Discord" />
             <div className="platform-tooltip">Discord server</div>
+            </a>
+            <a href="https://x.com/mstrvlol" className="platform">
+            <img src="/img/platforms/twitter.svg" height="32" width="32" alt="Twitter" />
+            <div className="platform-tooltip">Twitter</div>
             </a>
         </div>
       </div>
