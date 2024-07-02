@@ -44,7 +44,7 @@ export default function FindMe() {
             <div className="platform-tooltip">Twitter</div>
             </a>
             <a href="https://vrchat.com/home/user/usr_09c038af-bde8-4c49-9c35-a72466b54851" className="platform">
-            <img src="/img/platforms/vrchat.svg" height="32" width="32" alt="VRChat" />
+            <img src="/img/platforms/VRChat.svg" height="32" width="32" alt="VRChat" />
             <div className="platform-tooltip">VRChat</div>
             </a>
         </div>
