@@ -47,6 +47,10 @@ export default function FindMe() {
             <img src="/img/platforms/VRChat.svg" height="32" width="32" alt="VRChat" />
             <div className="platform-tooltip">VRChat</div>
             </a>
+            <a href="https://www.furaffinity.net/user/mstrv" className="platform">
+            <img src="/img/platforms/furaffinity.svg" height="32" width="32" alt="FurAffinity" />
+            <div className="platform-tooltip">FurAffinity</div>
+            </a>
         </div>
       </div>
     );
