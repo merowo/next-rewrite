@@ -1,4 +1,4 @@
-import NotificationBanner from './NotificationBanner';
+// import NotificationBanner from './NotificationBanner';
 import FullDescription from './FullDescription';
 import NotableRoles from './NotableRoles';
 import FindMe from './FindMe';
@@ -26,7 +26,7 @@ export default function Home() {
           <Footer />
           <Toast />
           <Nostalgia />
-          <NotificationBanner />
+          {/* <NotificationBanner /> */}
         </div>
       </div>
     </div>

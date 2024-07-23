@@ -14,7 +14,7 @@ export default function NotificationBanner() {
           &times;
         </button>
         <p>
-          The domain was changed to mstrv.lol from mstrv.pl.
+          Nothing here :3
         </p>
       </div>
     )

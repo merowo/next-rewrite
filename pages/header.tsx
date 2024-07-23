@@ -57,7 +57,7 @@ export default function Header() {
         </div>
         {/* Image */}
         <div className="image-container">
-          <img src="https://cdn.discordapp.com/guilds/820745488231301210/users/852891241125117962/avatars/a_ae1406c6d256b964b747fd4115944b3f.gif?size=1024&width=0&height=320" alt="PFP" height="200" width="200" />
+          <img src="https://cdn.discordapp.com/avatars/852891241125117962/a_6df27d4ead461c364effcfb39b20eaac.gif?size=1024&width=0&height=256" alt="PFP" height="200" width="200" />
         </div>
       </div>
     </div>

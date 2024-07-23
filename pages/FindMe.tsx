@@ -51,6 +51,10 @@ export default function FindMe() {
             <img src="/img/platforms/furaffinity.svg" height="32" width="32" alt="FurAffinity" />
             <div className="platform-tooltip">FurAffinity</div>
             </a>
+            <a href="https://www.roblox.com/users/6226531012/profile" className="platform">
+            <img src="/img/platforms/roblox.svg" height="32" width="32" alt="Roblox" />
+            <div className="platform-tooltip">Roblox</div>
+            </a>
         </div>
       </div>
     );
